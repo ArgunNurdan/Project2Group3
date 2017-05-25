@@ -7,8 +7,12 @@ pi:
 compile:
 -------------------------
 cd pi/cmake-build-debug
+
 cmake ..
+
 make -j4
+
+
 
 execute:
 -------------------------
