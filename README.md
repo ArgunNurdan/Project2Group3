@@ -7,9 +7,9 @@
 Arduino code
 
 #2 pi:
-
+-------------------------
 compile:
-
+-------------------------
 cd pi/cmake-build-debug
 
 cmake ..
@@ -19,5 +19,5 @@ make -j4
 
 
 execute:
-
+--------------------------
 ./pi
